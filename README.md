@@ -8,11 +8,11 @@ jsx?$ (EC6 -> EC5).
 
 For the boilerplate to work please install latest nodejs and npm version.
 
-To install all the dependecies run ´npm install´
+To install all the dependecies run `npm install`
 
-To run the webpack-dev-server: 'npm run devserver'
-To build the project: ´npm run build´
-To clean the bin directory: ´npm run clean´
+To run the webpack-dev-server: `npm run devserver`
+To build the project: `npm run build`
+To clean the bin directory: `npm run clean`
 
 The build files get minified and bundled in the ./bin/ directory. This directory
 is also the mount point for the webpack-dev-server.
