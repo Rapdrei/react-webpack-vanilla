@@ -38,7 +38,8 @@ email at gdennis91@googlemail.com
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+The MIT License (MIT)
+Copyright (c) 2016 Dennis Groß
 
 ## Code Example
 
