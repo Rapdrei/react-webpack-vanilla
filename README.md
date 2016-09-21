@@ -10,7 +10,8 @@ For the boilerplate to work please install latest nodejs and npm version.
 
 To install all the dependecies run `npm install`
 
-To run the webpack-dev-server: `npm run devserver`
+To run the webpack-dev-server: `npm run devserver` (dev-server willbe at http://localhost:8080/webpack-dev-server/ you can also see that in the terminal
+  if you scroll up a bit)
 
 To build the project: `npm run build`
 
